@@ -6,3 +6,4 @@ Copy the desired HTML code and paste it into one of the custom HTML widgets in t
 OrgV2 Base Theme:
 
 Plex Theme:
+![Plex Theme](https://github.com/jigahertz/orgv2_custom_buttons/blob/master/plex_theme.PNG)
