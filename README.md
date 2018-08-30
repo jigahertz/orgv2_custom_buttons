@@ -2,7 +2,10 @@
 Custom buttons for your OrgV2 homepage
 
 There are 2 separate sets of HTML so far. One is for the base OrgV2 theme and the other is for the Plex theme.
-Copy the desired HTML code and paste it into one of the custom HTML widgets in the OrgV2 homepage settings
+
+**Setup:**
+<br>
+OrgV2 Settings Tab > Tab Editor > Homepage Items > CustomHTML-1 (or CustomHTML-2) > Enable > Code > Paste the code for your theme > Save > Refresh the page
 
 OrgV2 Base Theme:
 ![OrgV2 Base Theme](https://github.com/jigahertz/orgv2_custom_buttons/blob/master/screen_shots/orgv2_base_theme.PNG)
