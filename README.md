@@ -20,5 +20,8 @@ Netflix Theme:
 
 ![Netflix Theme](/screen_shots/orgv2_custom_button_netflix.png)
 
+Custom Tab Button:
+
+![Custom Tab Button](/screen_shots/custom_tab_button.png)
 
 Original Credits go to **jigahertz/orgv2_custom_buttons**
