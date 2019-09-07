@@ -24,4 +24,7 @@ Custom Tab Button:
 
 ![Custom Tab Button](/screen_shots/custom_tab_button.png)
 
+OrgV2 Base Theme Modal Box:
+![OrgV2 Base Theme](/screen_shots/orgv2_base_theme_popup.PNG)
+
 Original Credits go to **jigahertz/orgv2_custom_buttons**
